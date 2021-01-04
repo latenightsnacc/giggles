@@ -31,18 +31,6 @@ p, div, a, button {
     font-weight: 300;
 }
 
-.work-experience .row:hover .text {
-    border:2px solid  #3b82f6;
+.work-experience .row:hover {
     
 }
-.work-experience .row:hover .flex .no {
-    border:1px solid #3b82f6;
-    
-}
-.nav-link {
-    color: #3b82f6 !important;
-}
-.nav-item .active{
-    font-weight: 600;
-}
-

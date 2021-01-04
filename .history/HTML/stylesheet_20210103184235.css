@@ -39,10 +39,11 @@ p, div, a, button {
     border:1px solid #3b82f6;
     
 }
-.nav-link {
-    color: #3b82f6 !important;
-}
-.nav-item .active{
-    font-weight: 600;
+
+@media screen and (max-width:600px){
+    .work-experience .row {
+        flex-direction: col-reverse;
+        
+    }
 }
 

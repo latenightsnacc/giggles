@@ -39,10 +39,5 @@ p, div, a, button {
     border:1px solid #3b82f6;
     
 }
-.nav-link {
-    color: #3b82f6 !important;
-}
-.nav-item .active{
-    font-weight: 600;
-}
+
 
